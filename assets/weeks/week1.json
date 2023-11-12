@@ -1,22 +1,48 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "A beautiful day outside",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		168,
+		168,
+		168
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				168,
+				168,
+				168
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				55,
+				117,
+				186
+			]
+		],
+		[
+			"Dad Battle",
+			"dad",
+			[
+				46,
+				33,
+				33
+			]
+		]
+	],
+	"weekName": "Week 1"
 }

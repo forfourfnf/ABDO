@@ -1,22 +1,30 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "Juego de ritmo mis coco",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Week 1",
+	"freeplayColor": [
+		255,
+		150,
+		0
 	],
-
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Spookeez",
+			"dad",
+			[
+				255,
+				150,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 2"
 }
